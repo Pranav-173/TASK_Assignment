@@ -1,8 +1,14 @@
 # Programming for Problem Solving – Task Assignment
 
-**Student:** D. Pranav Kumar
+**Student:** D. Pranav Kumar 
+
+
 **Roll No:** 25951A6677
+
+
 **Branch:** CSE(AIML) - B
+
+
 **Course:** Programming for Problem Solving Laboratory (ACSE07)  
 
 ---
@@ -26,6 +32,8 @@ A Python program that tracks daily water consumption and determines whether a us
 | Adequately Hydrated | intake = 2 liters     |
 | Over-hydrated       | intake > 2 liters     |
 
+---
+
 ## Task 14 – Smart Traffic Signal Timer Advisor
 
 ### Description:
@@ -44,6 +52,8 @@ A Python program that analyzes the number of vehicles waiting at a traffic signa
 | Low            | 0 – 10            |
 | Medium         | 11 – 30           |
 | High           | 31 – 100          |
+
+---
 
 ## Task 45 – Movie Theatre Seat Booking System
 
