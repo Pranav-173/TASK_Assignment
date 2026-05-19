@@ -1,16 +1,5 @@
 # Programming for Problem Solving – Task Assignment
 
-**Student:** D. Pranav Kumar 
-
-
-**Roll No:** 25951A6677
-
-
-**Branch:** CSE(AIML) - B
-
-
-**Course:** Programming for Problem Solving Laboratory (ACSE07)  
-
 ---
 
 ## Task 12 – Daily Water Intake Tracker
